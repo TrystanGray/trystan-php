@@ -50,15 +50,25 @@
 		</p>
 		<p>
 			<strong> Attitudes and Behaviors: </strong>
+			Mark is a no nonsense kind of guy and only seeks out employees who pay attention to overlooked detail.
+			Mark prefers simple and clean websites over extremely dynamic. Mark is willing to teach on the job if
+			he believes he wont be wasting his time on you, convince him.
 		</p>
 		<p>
 			<strong> Frustrations and Needs: </strong>
+			Mark is looking for a full time developer to be constantly evolving and updating his site, he is willing
+			to pay a competitive salary with possible increases in pay. He is trying to decide between 8 candidates
+			and needs to hire as soon as possible.
 		</p>
 		<p>
 			<strong> Goals: </strong>
+			Mark wants his website revamped and constantly updated, this will help achieve his goal of becoming a more
+			successful business. Can he quickly tell your skill level, organizational skills, design concepts and
+			if you will be a good fit from your profile?
 		</p>
 		<p>
 			<strong> User Story: </strong>
+			As a user I need to be able to decide whether the applicants meet my expectations.
 		</p>
-	</body>
+	</body> 
 </html>
