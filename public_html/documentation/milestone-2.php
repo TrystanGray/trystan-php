@@ -38,5 +38,9 @@
 			Name, Number, email, and memo about why they're contacting me. There will also be links to
 			email me more directly than the contact form, links to my linked in and github as well.
 		</p>
+		<p>
+			<img src="New%20Wireframe%201.png" alt="no pic 1">
+			<img src="New%20Wireframe%202.png" alt="no pic 1">
+		</p>
 	</body>
 </html>
