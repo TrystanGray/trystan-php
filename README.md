@@ -19,6 +19,4 @@ For the "See project here" links, I am concerned that you are biting off more th
 * You have a few grammatical errors sprinkled throughout.  Your capitalization is inconsistent, you have spaces after quotes here and there, a few typos, etc.
 * I don't understand what you're going for in this sentence: "MAKE IT KNOWN YOU ARE JUST STARTING."  Make the user know they are just starting and that there's more on the page?
 
-Overall, nice work.  You've got a really clear outline here, well done.  You hit all the major points.  This passes as Tier IV.  You are now clear to start Milestone 2b.  You can read it over on the website for now, it'll be formally assigned later this week.
-
-- Paul
+Overall, nice work.  You've got a really clear outline here, well done.  You hit all the major points.  This passes as Tier IV.  You are now clear to start Milestone 2b.  You can read it over on the website for now, it'll be formally assigned later this week. - PRS
