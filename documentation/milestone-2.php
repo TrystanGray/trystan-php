@@ -39,8 +39,8 @@
 			email me more directly than the contact form, links to my linked in and github as well.
 		</p>
 		<p>
-			<img src="New%20Wireframe%201.png" alt="no pic 1">
-			<img src="New%20Wireframe%202.png" alt="no pic 2">
+			<img src="New Wireframe 1.png" alt="no pic 1">
+			<img src="New Wireframe 2.png" alt="no pic 2">
 		</p>
 	</body>
 </html>
