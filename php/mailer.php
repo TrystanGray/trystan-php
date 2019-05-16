@@ -8,7 +8,7 @@
  * @author Trystan Gray <tgray19@cnm.edu>
  **/
 // require all composer dependencies
-require_once(dirname(__DIR__, 1) . "/vendor/autoload.php");
+require_once("vendor/autoload.php");
 // require mail-config.php
 require_once("mail-config.php");
 
