@@ -1,4 +1,4 @@
-#header-image {
+.header-image {
 	width: 100%;
 	height: auto;
 	color: #fff;
@@ -53,4 +53,13 @@
 }
 .contact-me {
 	background: #6C6056 ;
+}
+.carousel-inner {
+	width: auto;
+	height: 360px;
+}
+.img-fluid {
+	height: 360px;
+	margin: auto;
+	display: block;
 }
