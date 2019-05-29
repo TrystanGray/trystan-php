@@ -60,6 +60,7 @@
 }
 .img-fluid {
 	height: 360px;
+	width: auto;
 	margin: auto;
 	display: block;
 }
