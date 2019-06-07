@@ -20,3 +20,25 @@ For the "See project here" links, I am concerned that you are biting off more th
 * I don't understand what you're going for in this sentence: "MAKE IT KNOWN YOU ARE JUST STARTING."  Make the user know they are just starting and that there's more on the page?
 
 Overall, nice work.  You've got a really clear outline here, well done.  You hit all the major points.  This passes as Tier IV.  You are now clear to start Milestone 2b.  You can read it over on the website for now, it'll be formally assigned later this week. - PRS
+
+
+## Milestone 2b 5/15
+You are making good progress.
+
+#### Details to Clean Up
+There's usually only one main title h1 on a page. 
+This page has 3 of them.
+Keep up the good work.
+You have earned a tier 3.
+
+
+## Milestone 3
+Your final PWP is clean, simple and easy to use. It has a nice look and feel.
+The contact form works and validates inputs.
+The site is responsive.
+
+#### Details to Clean Up
+There are 4 errors: "The value of the for attribute of the label element must be the ID of a non-hidden form control" (for example: id="name" doesn't match for="Name")
+On mobile the invisible NavBar makes it hard to see the links.
+
+Overall great job! You have earned a tier 4.
